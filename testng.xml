@@ -4,9 +4,13 @@
     <test verbose="2" preserve-order="true" name="C:/Users/min_ok/IdeaProjects/TestSel2/src/test/java">
     <classes>
         <class name="Test1.LoginTest"></class>
-        <class name="Test1.Logout"></class>
     </classes>
 </test>
+    <test verbose="2" preserve-order="true" name="C:/Users/min_ok/IdeaProjects/TestSel2/src/test/java">
+        <classes>
+            <class name="Test1.Logout"></class>
+        </classes>
+    </test>
 </suite>
 
 
